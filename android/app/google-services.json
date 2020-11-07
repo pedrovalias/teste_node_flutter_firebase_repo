@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844946240608",
+    "firebase_url": "https://jardineira-flutter-db.firebaseio.com",
+    "project_id": "jardineira-flutter-db",
+    "storage_bucket": "jardineira-flutter-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844946240608:android:c78a79cc75eab3d0023f05",
+        "android_client_info": {
+          "package_name": "com.teste.teste_node_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844946240608-4euf3h92p1f41eohj5rig0ah996sg9uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teste.teste_node_flutter_firebase",
+            "certificate_hash": "11bde81bcb8339097c6f5b332fa77564ae4cc135"
+          }
+        },
+        {
+          "client_id": "844946240608-semb9s0gh2g130gm6cfdcqm5m13546bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFhdu-AbsJQjcpzfHOUxprTFobGF5iXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844946240608-semb9s0gh2g130gm6cfdcqm5m13546bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
